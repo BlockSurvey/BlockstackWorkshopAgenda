@@ -15,25 +15,25 @@ Create your own Blockstack identity
 
 Session 2: Blockstack Auth Demo on the local machine (30 Mins)
 -----------------------------------------------------------
-Setup sample DApp on your machine (https://github.com/BlockSurvey)
-Understanding the Blockstack login in local
-Login and Logout
-SSO
+Setup sample DApp on your machine (https://github.com/BlockSurvey)  
+Understanding the Blockstack login in local  
+Login and Logout  
+SSO  
 
-Session 3: Blockstack Gaia Storage : (30 Mins)
+Session 3: Blockstack Gaia Storage : (30 Mins)  
 ------------------------------------------------
-No SQL
-Centralized vs Decentralized Storage
-Blockstack Gaia Storage
-Encryption and Decryption of data
-Private / Public Access
-API's
-
+No SQL  
+Centralized vs Decentralized Storage  
+Blockstack Gaia Storage  
+Encryption and Decryption of data  
+Private / Public Access  
+API's  
+  
 Session 4: Blockstack Gaia Storage demo on the local machine (30 Mins)
 --------------------------------------------------------------------
-Demo of storage
-putFile
-GetFile
-Delete File
-Putfile with Private access and public access
-Get File of Publicly shared data
+Demo of storage  
+putFile  
+GetFile  
+Delete File  
+Putfile with Private access and public access  
+Get File of Publicly shared data  
