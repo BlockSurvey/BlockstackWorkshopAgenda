@@ -1,6 +1,7 @@
 Goal:
 -----
 Goal is to enable you to build DApp on Blockstack ecosystem for Can't be evil 2.
+
 Session 1: Blockstack Auth: (30 Mins)
 -------------------------------------
 Decentralized Identity:
@@ -11,12 +12,14 @@ What is key -> Each id has keys, to unlock your identity
 -> Recovery code - Encrypted String in Email
 -> Secret Recovery code
 Create your own Blockstack identity
+
 Session 2: Blockstack Auth Demo on the local machine (30 Mins)
 -----------------------------------------------------------
 Setup sample DApp on your machine (https://github.com/BlockSurvey)
 Understanding the Blockstack login in local
 Login and Logout
 SSO
+
 Session 3: Blockstack Gaia Storage : (30 Mins)
 ------------------------------------------------
 No SQL
@@ -25,6 +28,7 @@ Blockstack Gaia Storage
 Encryption and Decryption of data
 Private / Public Access
 API's
+
 Session 4: Blockstack Gaia Storage demo on the local machine (30 Mins)
 --------------------------------------------------------------------
 Demo of storage
