@@ -5,9 +5,7 @@ Goal is to enable you to build DApp on Blockstack ecosystem for Can't be evil 2.
 Session 1: Blockstack Auth: (30 Mins)
 -------------------------------------
 Decentralized Identity:
-
 Today's Auth -> Account -> Company owns the credential and data of the user
-
 What is Blockstack identity -> Decentralized, Combination of username and key
 
 How do you get an identity -> Like License, Registrar, Blockstack browser, uniqueString.designation.entity (raja.id.blockstack)
